@@ -1,4 +1,4 @@
-# <h3>🍏 iPhone 13 Pro - Página Interativa (Clone Apple)</h3>
+# <h3>🍏 iPhone 13 Pro - Página Interativa (Apple)</h3>
 
 Este projeto é uma réplica moderna da página do iPhone 13 Pro, inspirada no design da Apple.
 Foi desenvolvido com foco em interface elegante, interatividade e boas práticas de front-end.
@@ -49,4 +49,10 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes c
 <li>Integração com carrinho de compras 🛒</li>
 <li>Versão com framework (React, por exemplo) ⚛️</li>
 
+<h3>▶️ Como executar o projeto</h3>
+
+Clone o repositório:
+git clone https://github.com/seu-usuario/seu-repositorio.git
+Abra o arquivo:
+index.html
 
